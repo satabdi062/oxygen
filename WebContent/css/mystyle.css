@@ -1,0 +1,38 @@
+@charset "ISO-8859-1";
+.register-form
+{	background: #6060ff;
+	margin: 50px;
+	box-shadow: 2px 2px 10px 3px black;
+	border:3px solid #ccc;
+	text-align: center;
+	
+	width: 30%;
+	padding:40px;
+	margin-left: 35%;
+	margin-top: 15%;
+}
+.login-form
+{     
+	background-color: pink;
+	margin: 50px;
+	box-shadow: 2px 2px 10px 3px black;
+	border:3px solid #ccc;
+	text-align: center;
+	
+	width: 30%;
+	padding:40px;
+	margin-left: 35%;
+	margin-top: 15%;
+	}
+	
+.button{
+			background-color: #847ee4;
+			padding-top:  8px;
+			padding:5px 8px;
+			font-size: 18px;
+			color: white;
+}
+.m{
+	margin-left: 25%;
+	margin-top:35%;
+}
